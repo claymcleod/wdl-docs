@@ -165,6 +165,33 @@ The following list contains the known execution engines listed alphabetically.
       <input type="checkbox" checked disabled> Google Cloud
     </td>
   </tr>
+   <tr>
+    <td>
+      <a href="https://toil.ucsc-cgl.org">
+        Toil
+      </a>
+    </td>
+    <td>
+      Binary/Executable
+    </td>
+    <td>
+      v1.1
+    </td>
+    <td>
+    <center>
+      <input type="checkbox" disabled>
+    </center>
+    </td>
+    <td>
+      <input type="checkbox" checked disabled> Slurm <br />
+      <input type="checkbox" checked disabled> IBM LSF
+    </td>
+    <td>
+      <input type="checkbox" checked disabled> Amazon AWS <br />
+      <input type="checkbox" disabled> Microsoft Azure <br />
+      <input type="checkbox" checked disabled> Google Cloud
+    </td>
+  </tr>
 </table>
 
 ## Workflow Inspiration
